@@ -86,7 +86,7 @@
     background: linear-gradient(to top,
         rgb(17, 117, 231, 0.5),
         rgba(136, 0, 133, 0.6)),
-      url("https://akankshadinde.github.io/Codeo.github.io/images/Banner1.jpg") center/cover no-repeat fixed;
+      url("./images/Banner1.jpg") center/cover no-repeat fixed;
     position: relative;
     z-index: 100;
   }
@@ -1016,7 +1016,7 @@
     background: linear-gradient(to top,
         rgb(17, 117, 231, 0.5),
         rgba(136, 0, 133, 0.6)),
-      url("https://akankshadinde.github.io/Codeo.github.io/images/Banner2.png") top/cover no-repeat fixed;
+      url("./images/Banner2.png") top/cover no-repeat fixed;
   }
   
   .special__offer::before 
@@ -1312,7 +1312,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("https://akankshadinde.github.io/Codeo.github.io/images/blog3.jpg");
+    background-image: url("./images/blog3.jpg");
     height: 100vh;
     background-size: 100%;
   }
